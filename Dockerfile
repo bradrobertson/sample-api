@@ -1,0 +1,1 @@
+FROM influitive/ruby:onbuild
